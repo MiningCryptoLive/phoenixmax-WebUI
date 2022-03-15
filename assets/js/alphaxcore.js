@@ -4,9 +4,9 @@
   * Copyright 2021 Authors AlphaX Projects
 */
 
-var WebURL         = "https://yourwebsite/";
-var API            = "https://yourwebsite:4000/api/";
-var stratumAddress = "stratum+tcp://yourwebsite";
+var WebURL         = "https://erg.miningcrypto.live/";
+var API            = "https://erg.miningcrypto.live:4000/api/";
+var stratumAddress = "stratum+tcp://erg.miningcrypto.live";
 
 currentPage = "index";
 
